@@ -1,0 +1,6 @@
+C:\Users\mattd\Desktop\C# Program\DemuthTriviaGameApp\DemuthTriviaGameApp\obj\Debug\DemuthTriviaGameApp.csprojAssemblyReference.cache
+C:\Users\mattd\Desktop\C# Program\DemuthTriviaGameApp\DemuthTriviaGameApp\bin\Debug\DemuthTriviaGameApp.exe.config
+C:\Users\mattd\Desktop\C# Program\DemuthTriviaGameApp\DemuthTriviaGameApp\bin\Debug\DemuthTriviaGameApp.exe
+C:\Users\mattd\Desktop\C# Program\DemuthTriviaGameApp\DemuthTriviaGameApp\bin\Debug\DemuthTriviaGameApp.pdb
+C:\Users\mattd\Desktop\C# Program\DemuthTriviaGameApp\DemuthTriviaGameApp\obj\Debug\DemuthTriviaGameApp.exe
+C:\Users\mattd\Desktop\C# Program\DemuthTriviaGameApp\DemuthTriviaGameApp\obj\Debug\DemuthTriviaGameApp.pdb
